@@ -75,7 +75,7 @@ public class Variables {
         /*int i = 0;
         while(i<nbRepet){
             System.out.println(chaineRepet);
-            i = i++;
+            i++;
         }*/
     }
 }
